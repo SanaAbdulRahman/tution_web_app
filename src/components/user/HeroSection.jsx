@@ -27,10 +27,10 @@ const HeroSection = () => {
             {/* Hero description */}
             <div className="hero-description">
               <p className="text-sm lg:text-base text-gray-500">
-                Etiam velit purus, vehicula quis imperdiet dignissim, convallis
-                vitae nisl. Nullam facilisi. Pellentesque non pulvinar justo.
-                Nullam eget neque ut tellus ornare ullamcorper ulla ambco mattis
-                for nulla glavrida egesed!
+                Our expert tutors provide one-on-one guidance, comprehensive
+                study materials, and real-time feedback to help you succeed in
+                your academic journey.Unleash your full potential with TutorEye
+                - Where Learning Never Stops!"
               </p>
             </div>
             {/* Hero button */}
